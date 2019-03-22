@@ -1,6 +1,3 @@
-# nodejs_babeljs_expressjs_mongodb_passport_tests_tdd_postman
-The simple app that used express framework with babel compiler run on nodejs. This used passport to authenticate and MongoDb to store data.
-
 # Getting started
 
 # Code Overview
