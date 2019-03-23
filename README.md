@@ -14,7 +14,7 @@
 - [slug](https://github.com/dodo/node-slug) - Encoding titles into a URL-friendly format (url-safe). Slugifies every string, even when it contains unicode.
 - [pug](https://github.com/pugjs/pug) - Rename from "Jade". It's view engine.
 - [babel](https://github.com/babel/babel) - The compiler for writing next generation JavaScript. It made nodejs can understand ES5/ES6.
-
+- [newman](https://github.com/postmanlabs/newman) - Newman is a command-line collection runner for Postman
 ## Application Structure
 
 - [build/] - This folder contains all compiled JSs code by babeljs (nodejs can understand and run). And It uses for production.
